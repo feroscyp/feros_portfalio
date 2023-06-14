@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statsmodel on Fernando Ordinola</title>
+    <link>https://feroscyp.github.io/ferosc_portfolio/en/tags/statsmodel/</link>
+    <description>Recent content in Statsmodel on Fernando Ordinola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Dec 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://feroscyp.github.io/ferosc_portfolio/en/tags/statsmodel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Likelihood of earning a salary above a set threshold using Logistic Regression</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/en/post/chapter-2/</link>
+      <pubDate>Sun, 25 Dec 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/en/post/chapter-2/</guid>
+      <description>This was one of the problems proposed in the Data Science Fundamentals module test. It consisted of determining the probability that an individual has a salary above a certain threshold, in this case $50,000, based on a series of demographic attributes.
+To initially model the problem, the logistic regression model, which is fitted using the smf.logit() function of the statsmodels library, was used. Later on, the same model, but from the sklearn library, was used for predictive modeling, taking into account the conclusions obtained from the exploratory analysis and the descriptive modeling.</description>
+    </item>
+    
+    <item>
+      <title>Predicting students who might perform poorly on grades using OLS.</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/en/post/chapter-1/</link>
+      <pubDate>Sun, 25 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/en/post/chapter-1/</guid>
+      <description>In the final exam of the Fundamentals of Data Science module, two problems were presented. One of them consisted of analyzing a dataset of students, whose ages ranged from 15 to 22 years old. The dataset had data entry issues that required cleaning and recoding of some variables.
+The objective of the problem was to identify statistically significant variables that could predict a student&amp;rsquo;s grade in the second semester. In this way, an estimate of the grade that a student could obtain in the future was sought, allowing the educational institution to take the necessary measures to prevent a low grade.</description>
+    </item>
+    
+  </channel>
+</rss>

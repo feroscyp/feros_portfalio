@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statsmodel on Fernando Ordinola</title>
+    <link>https://feroscyp.github.io/ferosc_portfolio/tags/statsmodel/</link>
+    <description>Recent content in Statsmodel on Fernando Ordinola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Dec 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://feroscyp.github.io/ferosc_portfolio/tags/statsmodel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clasificando con Regresión Logistica.</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/post/chapter-2/</link>
+      <pubDate>Sun, 25 Dec 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/post/chapter-2/</guid>
+      <description>Este fue uno de los problemas planteados en la prueba del modulo Fundamentos de Data Science. Este consitió en determinar la probabilidad de que un individuo presente un salario sobre una determinada linea, en este caso los $50.000 dolares en base a una serie de atributos demograficos.
+Se utilizó el modelo de regresión logística que se ajusta mediante la función smf.logit() de la librería statsmodels para realizar de forma inicial una modelación descriptiva del problema y posteriormente se utilizó el mismo modelo pero de la liberia sklearn para aplicar modelación predictiva contemplando las conclusiones que se pudieron obtener del análisis exploratorio y de la modelación descriptiva.</description>
+    </item>
+    
+    <item>
+      <title>Utilizando OLS para predecir calificaciones.</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/post/chapter-1/</link>
+      <pubDate>Sun, 25 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/post/chapter-1/</guid>
+      <description>En la prueba final del módulo de Fundamentos de Data Science, se presentaron dos problemas. Uno de ellos consistió en analizar un dataset de estudiantes, cuyas edades oscilaban entre los 15 y los 22 años. Dicho dataset presentaba malas prácticas en la entrada de datos, lo que requería de una limpieza y recodificación en algunas variables.
+El objetivo del problema era identificar las variables estadísticamente significativas que pudieran predecir la calificación de un estudiante en el segundo semestre.</description>
+    </item>
+    
+  </channel>
+</rss>

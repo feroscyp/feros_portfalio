@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Fernando Ordinola</title>
+    <link>https://feroscyp.github.io/ferosc_portfolio/en/tags/</link>
+    <description>Recent content in Tags on Fernando Ordinola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Mar 2023 11:00:59 -0400</lastBuildDate><atom:link href="https://feroscyp.github.io/ferosc_portfolio/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>keras</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/en/tags/keras/</link>
+      <pubDate>Fri, 10 Mar 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/en/tags/keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matplotlib</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/en/tags/matplotlib/</link>
+      <pubDate>Fri, 10 Mar 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/en/tags/matplotlib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nltk</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/en/tags/nltk/</link>
+      <pubDate>Fri, 10 Mar 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/en/tags/nltk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NumPy</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/en/tags/numpy/</link>
+      <pubDate>Fri, 10 Mar 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/en/tags/numpy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pandas</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/en/tags/pandas/</link>
+      <pubDate>Fri, 10 Mar 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/en/tags/pandas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scikit-learn</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/en/tags/scikit-learn/</link>
+      <pubDate>Fri, 10 Mar 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/en/tags/scikit-learn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seaborn</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/en/tags/seaborn/</link>
+      <pubDate>Fri, 10 Mar 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/en/tags/seaborn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spacy</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/en/tags/spacy/</link>
+      <pubDate>Fri, 10 Mar 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/en/tags/spacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statsmodel</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/en/tags/statsmodel/</link>
+      <pubDate>Sun, 25 Dec 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/en/tags/statsmodel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

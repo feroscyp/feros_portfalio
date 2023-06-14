@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>keras on Fernando Ordinola</title>
+    <link>https://feroscyp.github.io/ferosc_portfolio/tags/keras/</link>
+    <description>Recent content in keras on Fernando Ordinola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Mar 2023 11:00:59 -0400</lastBuildDate><atom:link href="https://feroscyp.github.io/ferosc_portfolio/tags/keras/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prediciendo arrestos - New york City</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/post/chapter-4/</link>
+      <pubDate>Fri, 10 Mar 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/post/chapter-4/</guid>
+      <description>En este proyecto se utilizaron varios modelos de Machine Learning para determinar la probabilidad de que un procedimiento policial terminara en un arresto. El dataset utilizado pertenecía al departamento de policía de Nueva York y se componía de datos del año 2009.
+El dataset incluía diversas variables, tanto categóricas como numéricas. Se llevó a cabo un proceso de limpieza de datos, recodificación de variables y eliminación de variables irrelevantes para resolver el problema planteado.</description>
+    </item>
+    
+  </channel>
+</rss>

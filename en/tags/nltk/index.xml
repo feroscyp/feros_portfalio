@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nltk on Fernando Ordinola</title>
+    <link>https://feroscyp.github.io/ferosc_portfolio/en/tags/nltk/</link>
+    <description>Recent content in nltk on Fernando Ordinola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Mar 2023 11:00:59 -0400</lastBuildDate><atom:link href="https://feroscyp.github.io/ferosc_portfolio/en/tags/nltk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Polarity Predictions on Tweets</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/en/post/chapter-3/</link>
+      <pubDate>Fri, 10 Mar 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/en/post/chapter-3/</guid>
+      <description>The goal of this problem was to predict the polarity of tweets, categorizing them as positive or negative. The original dataset had a column with various sentiments, which were recoded following certain instructions, without considering those classified as neutral. This posed a challenge when deciding what to do with the neutral tweets, as randomly recoding them seemed like an inaccurate option.
+To address this obstacle, a Naive Bayes model was proposed to be trained only with positive and negative tweets, and then used to predict the polarity of neutral tweets.</description>
+    </item>
+    
+  </channel>
+</rss>

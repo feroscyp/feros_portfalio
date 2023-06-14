@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NumPy on Fernando Ordinola</title>
+    <link>https://feroscyp.github.io/ferosc_portfolio/tags/numpy/</link>
+    <description>Recent content in NumPy on Fernando Ordinola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Mar 2023 11:00:59 -0400</lastBuildDate><atom:link href="https://feroscyp.github.io/ferosc_portfolio/tags/numpy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analizando datos - Chat de Grupo</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/post/chapter-5/</link>
+      <pubDate>Sat, 25 Mar 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/post/chapter-5/</guid>
+      <description>En este proyecto, se utilizó un chat de WhatsApp grupal correspondiente a una comunidad de un edificio de la región metropolitana para realizar análisis desde diversas perspectivas, las cuales se pueden explorar en detalle en el cuaderno del proyecto.
+A continuación dejó algunos graficos que resumen el proyecto:
+Cantidad de mensajes por días de la semana. Cantidad de mensajes en cada hora del día. Actividad mensual Mapa de calor que muestra la actividad resumida en cada hora de los días de la semana.</description>
+    </item>
+    
+    <item>
+      <title>Extracción de polaridades en tweets.</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/post/chapter-3/</link>
+      <pubDate>Fri, 10 Mar 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/post/chapter-3/</guid>
+      <description>En este problema, se pretendía predecir la polaridad de los tweets, clasificándolos como positivos o negativos. El conjunto de datos original contenía una columna con diferentes sentimientos, que se recodificaron siguiendo ciertas instrucciones, sin tener en cuenta aquellos considerados como neutrales. Esto planteó un desafío al momento de decidir qué hacer con los tweets neutrales, ya que recodificarlos aleatoriamente parecía una opción poco acertada.
+Para abordar este obstáculo, se propuso entrenar un modelo Naive Bayes únicamente con los tweets positivos y negativos, y luego utilizarlo para predecir la polaridad de los tweets neutrales.</description>
+    </item>
+    
+    <item>
+      <title>Prediciendo arrestos - New york City</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/post/chapter-4/</link>
+      <pubDate>Fri, 10 Mar 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/post/chapter-4/</guid>
+      <description>En este proyecto se utilizaron varios modelos de Machine Learning para determinar la probabilidad de que un procedimiento policial terminara en un arresto. El dataset utilizado pertenecía al departamento de policía de Nueva York y se componía de datos del año 2009.
+El dataset incluía diversas variables, tanto categóricas como numéricas. Se llevó a cabo un proceso de limpieza de datos, recodificación de variables y eliminación de variables irrelevantes para resolver el problema planteado.</description>
+    </item>
+    
+    <item>
+      <title>Clasificando con Regresión Logistica.</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/post/chapter-2/</link>
+      <pubDate>Sun, 25 Dec 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/post/chapter-2/</guid>
+      <description>Este fue uno de los problemas planteados en la prueba del modulo Fundamentos de Data Science. Este consitió en determinar la probabilidad de que un individuo presente un salario sobre una determinada linea, en este caso los $50.000 dolares en base a una serie de atributos demograficos.
+Se utilizó el modelo de regresión logística que se ajusta mediante la función smf.logit() de la librería statsmodels para realizar de forma inicial una modelación descriptiva del problema y posteriormente se utilizó el mismo modelo pero de la liberia sklearn para aplicar modelación predictiva contemplando las conclusiones que se pudieron obtener del análisis exploratorio y de la modelación descriptiva.</description>
+    </item>
+    
+    <item>
+      <title>Utilizando OLS para predecir calificaciones.</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/post/chapter-1/</link>
+      <pubDate>Sun, 25 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/post/chapter-1/</guid>
+      <description>En la prueba final del módulo de Fundamentos de Data Science, se presentaron dos problemas. Uno de ellos consistió en analizar un dataset de estudiantes, cuyas edades oscilaban entre los 15 y los 22 años. Dicho dataset presentaba malas prácticas en la entrada de datos, lo que requería de una limpieza y recodificación en algunas variables.
+El objetivo del problema era identificar las variables estadísticamente significativas que pudieran predecir la calificación de un estudiante en el segundo semestre.</description>
+    </item>
+    
+  </channel>
+</rss>

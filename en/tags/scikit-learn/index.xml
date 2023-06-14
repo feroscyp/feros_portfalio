@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scikit-learn on Fernando Ordinola</title>
+    <link>https://feroscyp.github.io/ferosc_portfolio/en/tags/scikit-learn/</link>
+    <description>Recent content in scikit-learn on Fernando Ordinola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Mar 2023 11:00:59 -0400</lastBuildDate><atom:link href="https://feroscyp.github.io/ferosc_portfolio/en/tags/scikit-learn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Polarity Predictions on Tweets</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/en/post/chapter-3/</link>
+      <pubDate>Fri, 10 Mar 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/en/post/chapter-3/</guid>
+      <description>The goal of this problem was to predict the polarity of tweets, categorizing them as positive or negative. The original dataset had a column with various sentiments, which were recoded following certain instructions, without considering those classified as neutral. This posed a challenge when deciding what to do with the neutral tweets, as randomly recoding them seemed like an inaccurate option.
+To address this obstacle, a Naive Bayes model was proposed to be trained only with positive and negative tweets, and then used to predict the polarity of neutral tweets.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Arrests - New York City</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/en/post/chapter-4/</link>
+      <pubDate>Fri, 10 Mar 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/en/post/chapter-4/</guid>
+      <description>In this project, we utilized multiple Machine Learning models to determine the probability of a police procedure ending in an arrest. The dataset used was from the New York Police Department and consisted of data from 2009.
+The dataset contained various categorical and numerical variables. We performed data cleaning, variable recoding, and removal of irrelevant variables to address the problem at hand.
+As this problem was proposed by Desafío Latam, important instructions were provided.</description>
+    </item>
+    
+    <item>
+      <title>Likelihood of earning a salary above a set threshold using Logistic Regression</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/en/post/chapter-2/</link>
+      <pubDate>Sun, 25 Dec 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/en/post/chapter-2/</guid>
+      <description>This was one of the problems proposed in the Data Science Fundamentals module test. It consisted of determining the probability that an individual has a salary above a certain threshold, in this case $50,000, based on a series of demographic attributes.
+To initially model the problem, the logistic regression model, which is fitted using the smf.logit() function of the statsmodels library, was used. Later on, the same model, but from the sklearn library, was used for predictive modeling, taking into account the conclusions obtained from the exploratory analysis and the descriptive modeling.</description>
+    </item>
+    
+    <item>
+      <title>Predicting students who might perform poorly on grades using OLS.</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/en/post/chapter-1/</link>
+      <pubDate>Sun, 25 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/en/post/chapter-1/</guid>
+      <description>In the final exam of the Fundamentals of Data Science module, two problems were presented. One of them consisted of analyzing a dataset of students, whose ages ranged from 15 to 22 years old. The dataset had data entry issues that required cleaning and recoding of some variables.
+The objective of the problem was to identify statistically significant variables that could predict a student&amp;rsquo;s grade in the second semester. In this way, an estimate of the grade that a student could obtain in the future was sought, allowing the educational institution to take the necessary measures to prevent a low grade.</description>
+    </item>
+    
+  </channel>
+</rss>
