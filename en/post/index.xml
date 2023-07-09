@@ -8,6 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://feroscyp.github.io/ferosc_portfolio/en/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>SQL Project - Brazilian E-commerce</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/en/post/chapter-6/</link>
+      <pubDate>Sat, 15 Apr 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/en/post/chapter-6/</guid>
+      <description>In this project, we tackle a dataset from a Brazilian e-commerce company. It is a fairly comprehensive dataset that consists of various tables, which provides us with the opportunity to perform multiple interesting queries. These tables contain real commercial information that has been anonymized.
+Dataset source:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce Project tables:
+&amp;lsquo;olist_customers_dataset.csv&amp;rsquo; &amp;lsquo;olist_geolocation_dataset.csv&amp;rsquo; &amp;lsquo;olist_orders_dataset.csv&amp;rsquo; &amp;lsquo;olist_order_items_dataset.csv&amp;rsquo; &amp;lsquo;olist_order_payments_dataset.csv&amp;rsquo; &amp;lsquo;olist_order_reviews_dataset.csv&amp;rsquo; &amp;lsquo;olist_products_dataset.csv&amp;rsquo; &amp;lsquo;olist_sellers_dataset.csv&amp;rsquo; &amp;lsquo;product_category_name_translation.csv&amp;rsquo; The logical approach would be to start by uploading these files through a database manager like MySQL Workbench or phpMyAdmin.</description>
+    </item>
+    
+    <item>
       <title>Chat Group Whatsapp - Data Analytics</title>
       <link>https://feroscyp.github.io/ferosc_portfolio/en/post/chapter-5/</link>
       <pubDate>Fri, 10 Mar 2023 11:00:59 -0400</pubDate>
