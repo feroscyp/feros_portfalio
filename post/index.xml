@@ -5,8 +5,31 @@
     <link>https://feroscyp.github.io/ferosc_portfolio/post/</link>
     <description>Recent content in Proyectos on Fernando Ordinola</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
+    <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://feroscyp.github.io/ferosc_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyecto SQL - E-commerce Brasil</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/post/chapter-6/</link>
+      <pubDate>Sat, 15 Apr 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/post/chapter-6/</guid>
+      <description>En este proyecto, abordamos un dataset de un comercio electrónico brasileño. Se trata de un dataset bastante completo que cuenta con diversas tablas, lo que nos brinda la oportunidad de realizar múltiples consultas interesantes. Estas tablas contienen información comercial real que ha sido anonimizada.
+Origén del dataset:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce Tablas del proyecto:
+&amp;lsquo;olist_customers_dataset.csv&amp;rsquo; &amp;lsquo;olist_geolocation_dataset.csv&amp;rsquo; &amp;lsquo;olist_orders_dataset.csv&amp;rsquo; &amp;lsquo;olist_order_items_dataset.csv&amp;rsquo; &amp;lsquo;olist_order_payments_dataset.csv&amp;rsquo; &amp;lsquo;olist_order_reviews_dataset.csv&amp;rsquo; &amp;lsquo;olist_products_dataset.csv&amp;rsquo; &amp;lsquo;olist_sellers_dataset.csv&amp;rsquo; &amp;lsquo;product_category_name_translation.csv&amp;rsquo; Lo lógico sería empezar subiendo estos archivos a través de un administrador de base de datos como MySQL WorkBench o phpMyAdmin.</description>
+    </item>
+    
+    <item>
+      <title>Analizando datos - Chat de Grupo</title>
+      <link>https://feroscyp.github.io/ferosc_portfolio/post/chapter-5/</link>
+      <pubDate>Sat, 25 Mar 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://feroscyp.github.io/ferosc_portfolio/post/chapter-5/</guid>
+      <description>En este proyecto, se utilizó un chat de WhatsApp grupal correspondiente a una comunidad de un edificio de la región metropolitana para realizar análisis desde diversas perspectivas, las cuales se pueden explorar en detalle en el cuaderno del proyecto.
+A continuación dejó algunos graficos que resumen el proyecto:
+Cantidad de mensajes por días de la semana. Cantidad de mensajes en cada hora del día. Actividad mensual Mapa de calor que muestra la actividad resumida en cada hora de los días de la semana.</description>
+    </item>
+    
     <item>
       <title>Extracción de polaridades en tweets.</title>
       <link>https://feroscyp.github.io/ferosc_portfolio/post/chapter-3/</link>
